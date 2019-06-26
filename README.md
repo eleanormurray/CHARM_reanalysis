@@ -1,7 +1,7 @@
 # CHARM_reanalysis
 SAS code for estimating the per-protocol effect in the Candesartan in Heart Failure Morbidity and Mortality Trial.
 
-This code uses a series of macros. The file "macro_calls.4.11.18.sas" sets up the series of data cleaning & analysis macro calls for each set of analyses, the files "Table1.sas", "Table2.4.7.18.sas", "Table3.sas", and "Figure1.sas" contain calls for each row of the tables & for the figure included in our paper.
+This code uses a series of macros. The file "All_macros.sas" sets up the series of data cleaning & analysis macro calls for each set of analyses, the file "All_analyses.sas" contain calls for each row of the tables & for the figure included in our paper.
 
 To report bugs, or for questions please contact Eleanor Murray at ejmurray@bu.edu, or submit a pull request.
 
