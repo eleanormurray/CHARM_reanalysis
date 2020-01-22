@@ -5,6 +5,7 @@ This code uses a series of macros. The file "All_macros.sas" sets up the series 
 
 To report bugs, or for questions please contact Eleanor Murray at ejmurray@bu.edu, or submit a pull request.
 
+This code was used for a forthcoming mansucript in Contemporary Clinical Trials. 
 
 Copyright (c) 2014, 2018, The President and Fellows of Harvard College
 
